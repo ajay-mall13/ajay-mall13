@@ -170,4 +170,3 @@ Welcome to my GitHub profile! I’m a Google Certified Associate Cloud Engineer 
 
 <img src="https://github.com/user-attachments/assets/62365695-0d6e-42a5-beb2-18595fa42f02" alt="Screenshot" width="400" height="200" />
 
-<img src="https://github.com/user-attachments/assets/01454bc4-cd4d-4554-85da-f7ffe9cb658f" alt="Screenshot" width="400" height="300" />
