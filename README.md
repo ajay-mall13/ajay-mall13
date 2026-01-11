@@ -158,7 +158,7 @@ Welcome to my GitHub profile! I’m a Google Certified Associate Cloud Engineer 
 <h2 align="center">Leetcode Info<h2>  
 
 
-  <img src="https://github.com/user-attachments/assets/f917ea3b-51b8-4683-95ec-ea478c1792c2" alt="Screenshot" width="600" height="300" />
+<img width="1483" height="480" alt="Screenshot 2026-01-11 211243" src="https://github.com/user-attachments/assets/9d315a57-afda-4e2f-ba93-4fa13f4b929f" />
 
 <h2 align="center">Code 360 Info<h2> 
 
