@@ -162,7 +162,7 @@ Welcome to my GitHub profile! I’m a Google Certified Associate Cloud Engineer 
 
 <h2 align="center">Code 360 Info<h2> 
 
-<img src="https://github.com/user-attachments/assets/6205403c-be52-4e40-bf51-8a9c9e99f0e7" alt="Screenshot" width="600" height="300" />
+<img width="1229" height="256" alt="Screenshot 2026-01-11 211445" src="https://github.com/user-attachments/assets/c0de6207-33ca-450f-bacb-5e6f3fa03f84" />
 
 
 <img src="https://github.com/user-attachments/assets/b754a849-b70b-494c-a8aa-0684861dc1e4" alt="Screenshot" width="300" height="300" />
